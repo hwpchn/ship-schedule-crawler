@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 环境配置
+.env
+venv/
+ENV/
+
+# IDE配置
+.idea/
+.vscode/
+*.swp
+
+# 测试文件
+test.json
+vessel_data.json
+
+# 日志
+*.log
+
+# 敏感配置
+config.json

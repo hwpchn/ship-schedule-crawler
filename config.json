@@ -1,0 +1,15 @@
+{
+  "token": "**********",
+  "company_id": "**********",
+  "days_back": 2,
+  "pol_cd": "CNSHK",
+  "pod_cd": "THBKK",
+  "weeks_out": "6",
+  "is_transit": "0",
+  "db_host": "localhost",
+  "db_port": 3306,
+  "db_user": "root",
+  "db_password": "**********",
+  "db_name": "shipping_project",
+  "db_charset": "utf8mb4"
+}
